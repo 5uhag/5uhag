@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>5uhag</h1>
+ <h2><i>“The quieter you become, the more you can hear.”</i></h2>
   <p><b>BCA Student | Cybersecurity Enthusiast | Web Developer</b></p>
   
   <br>
