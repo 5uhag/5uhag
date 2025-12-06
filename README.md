@@ -21,4 +21,7 @@ root@5uhag:~$ ./status
   </pre>
 
 <br>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=5uhag&style=flat-square&label=&color=0d1117&text_color=20C20E" alt="Hacker Counter" />
+</div>
 
