@@ -1,10 +1,11 @@
 <div align="center">
 
- <h2><i>“The quieter you become, the more you can hear.”</i></h2>
+  <h2><i>“The quieter you become, the more you can hear.”</i></h2>
   <p><b>BCA Student | Cybersecurity Enthusiast | Web Developer</b></p>
   
   <br>
 
+  <a href="https://5uhag.me" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Website" /></a>
   <a href="https://twitter.com/_5uhag" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/5uhag" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://huggingface.co/5uhag" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" /></a>
@@ -24,4 +25,4 @@ root@5uhag:~$ ./status
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=5uhag&style=flat-square&label=&color=0d1117&text_color=20C20E" alt="Hacker Counter" />
 </div>
-
+</div>
