@@ -15,7 +15,7 @@
 
   <pre align="left">
 root@5uhag:~$ ./status
-> Current:  5th Sem BCA
+> Current:  6th Sem BCA
 > Focus:    Ethical Hacking & PHP/MySQL
 > Goal:     Securing an Internship
 > Status:   Online...
