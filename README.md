@@ -15,9 +15,8 @@
 
   <pre align="left">
 root@5uhag:~$ ./status
-> Current:  6th Sem BCA
+> Current:  Freelancing
 > Focus:    Ethical Hacking & PHP/MySQL
-> Goal:     Securing an Internship
 > Status:   Online...
   </pre>
 
