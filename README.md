@@ -1,7 +1,7 @@
 <div align="center">
 
   <h2><i>“The quieter you become, the more you can hear.”</i></h2>
-  <p><b>BCA Student | Cybersecurity Enthusiast | Web Developer</b></p>
+  <p><b>BCA Graduate | Cybersecurity Enthusiast | Web Developer</b></p>
   
   <br>
 
